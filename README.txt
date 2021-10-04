@@ -23,7 +23,7 @@ Step to Run
    Do you want to add a service to your test setup? : Select using only selenium-standalone keyboard arrow keys and space and then hit enter
    What is the base url? : Hit enter
    
-4. npx wdio run wdio.conf.js
+6. npx wdio run wdio.conf.js
 
 
 
